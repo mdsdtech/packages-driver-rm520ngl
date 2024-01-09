@@ -1,0 +1,29 @@
+Release Notes
+
+[V1.1.1]
+Date:   27/8/2021
+enhancement:
+fix:
+  1. fix some compile errors in low version kernel
+  2. fix some compile error in x86 device
+  3. set default mtu as 1500
+
+[V1.1.0.2]
+Date:   27/8/2021
+enhancement:
+fix:
+  1. fix some compile errors in low version kernel
+  2. fix some compile error in x86 device
+
+[V1.1.0.1]
+Date:   27/8/2021 
+enhancement:
+fix:
+  1. fix a compile error 
+  2. set default mtu as 1500
+
+[V1.1.0.0]
+Date:   21/6/2021 
+enhancement:
+  1. initital base version
+fix:
